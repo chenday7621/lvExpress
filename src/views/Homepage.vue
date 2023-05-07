@@ -33,7 +33,7 @@
         <hr/>
         <div class="fir">
           <span>联系我们 | </span>
-          <span>邮箱：Lvxiang_xun@163.com | </span>
+          <span>邮箱：Lvxiang_Go@163.com | </span>
           <span>地址：北京市海淀区中关村南大街27号</span>
         </div>
         <div class="sec">
